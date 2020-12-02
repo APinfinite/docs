@@ -8,7 +8,7 @@ redirect_from:
   - /articles/what-happens-when-i-change-my-username/
   - /articles/changing-your-github-username
 versions:
-  free-pro-team: '*'
+  free-pro-team: 'Apinfinity'
   enterprise-server: '*'
 ---
 
